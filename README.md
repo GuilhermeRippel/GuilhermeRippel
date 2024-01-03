@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Guilherme Rippel 👋
 
-<!--
-**GuilhermeRippel/GuilhermeRippel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer. And, I'm studying web development at 🚀[Rocketseat](https://www.rocketseat.com.br).
 
-Here are some ideas to get you started:
+#### Current stack
+- 🔥Main language: `Javascript`
+- 🗃️Backend: `Node.js`
+- 💄Frontend: `React.js` , `HTML5` , `CSS3` , `Javascript`
+- ✏️Layout Design: `Figma`
+- 🧑‍💻Tools: `VsCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact
+- Email: guilhermerippelmoraes@gmail.com
+- LinkedIn: [Guilherme Rippel](www.linkedin.com/in/guilherme-rippel-moraes-1a3571287)
