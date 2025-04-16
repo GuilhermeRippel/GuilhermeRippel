@@ -4,11 +4,11 @@
 I'm a Web Developer. And, I'm studying web development at 🚀[Rocketseat](https://www.rocketseat.com.br).
 
 #### Current stack
-- 🔥Main language: `Javascript`
+- 🔥Main language: `TypeScript`
 - 🗃️Backend: `Node.js` , `Express` , `bcrypt`, `Prisma`
-- 💄Frontend: `React.js` , `HTML5` , `CSS3` , `Javascript`
+- 💄Frontend: `React` , `HTML5` , `Tailwind` , `TypeScript` , `Angular`
 - ✏️Layout Design: `Figma` , `Canva`
-- 🧑‍💻Tools: `VsCode`
+- 🧑‍💻Tools: `VsCode` , `Postman` , `Insomnia`
 
 #### Contact
 - Email: guilhermerippelmoraes@gmail.com
